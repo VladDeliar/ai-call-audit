@@ -12,6 +12,10 @@ build/
 develop-eggs/
 dist/
 downloads/
+
+# Локальні дані проєкту
+credentials/
+work_files/
 eggs/
 .eggs/
 lib/
